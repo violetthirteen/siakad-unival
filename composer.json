@@ -51,7 +51,9 @@
             "dev-master": "11.x-dev"
         },
         "laravel": {
-            "dont-discover": []
+            "dont-discover": [
+                "spatie/laravel-ignition"
+            ]
         }
     },
     "config": {
